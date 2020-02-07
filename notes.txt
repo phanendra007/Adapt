@@ -1,0 +1,38 @@
+***************** DEV OPS ************************
+
+WHAT-Process	WHY	HOW - Tools
+ WHAT is where as an engineering manager you want to be focused on
+
+2 min - elevator picth , 30 mins capability discussion, 
+
+People - process - technology
+
+Ask question to come up with or contribute to L1- Design 
+
+Semantics are very important!!
+
+
+A ( Build& Release management)-> Agile infrastructure + Continuous deployment
+B ( Dev ops Ops Team)-> A + Collaborative operations
+C-> Continuous Development + Continuous Integration + Continuous  Testing
+D-> A+B+C
+E-> D+ Continous planning
+
+F -> All+ Inverse convey structure , Continous experientation, pi&E shaped competencies, user centre design, autonomic systems, containerization, micro services architecture
+
+
+Devops is set of best practices for people,process and technology for better engineerng design for time to market.
+--------------------
+CAST - open shift, eks,aks 
+
+MERN
+
+Elastic kubenetic service, AWS kubernetic service
+
+SRE - Search reliability engine - Google
+
+Devops book
+The Phoenix project
+latest - the unicorn project
+
+Enterprise Devops Summit videos on you tube
